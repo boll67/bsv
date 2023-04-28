@@ -10,5 +10,19 @@
         "name": "oleg"
     },
     "items": [
+        {
+            "id": "https://boll67.github.io/gruzoperevozki-v-sankt-peterburge.html",
+            "url": "https://boll67.github.io/gruzoperevozki-v-sankt-peterburge.html",
+            "title": "Грузоперевозки в Санкт-петербурге",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "image": "https://boll67.github.io/media/posts/2/IMG_20190206_092340.jpg",
+            "author": {
+                "name": "oleg"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-04-29T00:03:37+03:00",
+            "date_modified": "2023-04-29T00:03:37+03:00"
+        }
     ]
 }

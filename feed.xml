@@ -3,10 +3,30 @@
     <title>booll</title>
     <link href="https://boll67.github.io/feed.xml" rel="self" />
     <link href="https://boll67.github.io" />
-    <updated>1970-01-01T03:00:00+03:00</updated>
+    <updated>2023-04-29T00:03:37+03:00</updated>
     <author>
         <name>oleg</name>
     </author>
     <id>https://boll67.github.io</id>
 
+    <entry>
+        <title>Грузоперевозки в Санкт-петербурге</title>
+        <author>
+            <name>oleg</name>
+        </author>
+        <link href="https://boll67.github.io/gruzoperevozki-v-sankt-peterburge.html"/>
+        <id>https://boll67.github.io/gruzoperevozki-v-sankt-peterburge.html</id>
+
+        <updated>2023-04-29T00:03:37+03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://boll67.github.io/media/posts/2/IMG_20190206_092340.jpg" alt="" />
+                
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
